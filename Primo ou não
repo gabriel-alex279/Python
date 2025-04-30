@@ -1,0 +1,15 @@
+nmr = int(input('Digite um número: '))
+cont = 0
+núm = nmr + 1
+for c in range (1, núm):
+    if nmr % c == 0:
+        cont = cont + 1
+        print('\033[036m', end=' ')
+    else:
+        print('\033[031m', end=' ')
+    print(c, end=' ')
+print(f'\n\033[mO número {nmr} foi dividido {cont} vezes')
+if cont == 2:
+    print(f'O número {nmr} é PRIMO')
+else:
+    print(f'O número {nmr} não é PRIMO')
