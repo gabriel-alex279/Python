@@ -1,0 +1,11 @@
+nome = str(input('Digite um nome: ')).strip().upper()
+palavras = nome.split()
+junto = ''.join(palavras)
+inverso = ''
+for l in range(len(junto) - 1, -1, -1):
+    inverso += junto[l]
+print(f'O oposto de {junto} é {inverso}')
+if inverso == junto:
+    print('\nIsso é um Palíndromo')
+else:
+    print('\nIsso não é um Palíndromo')
