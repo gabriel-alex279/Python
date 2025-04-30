@@ -21,7 +21,7 @@ Exercícios e exemplos simples feitos em Python.
 
 ## Atividades Acadêmicas 🎓
 
-Atividades práticas solicitadas pela minha Universidade.
+Atividades práticas solicitadas pela minha Faculdade.
 
 - [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/Python/commit/28f8bf3e32ad35e6e107d8d6abd4cb03bbc0995f)
 
