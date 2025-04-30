@@ -1,0 +1,21 @@
+compras = int(input('Quanto foi o preço das compras? R$'))
+print('')
+print('''FORMAS DE PAGAMENTO:
+[1] à vista dinheiro/cheque
+[2] à vista no cartão
+[3] 2x no cartão
+[4] 3x ou mais no cartão''')
+opção = str(input('Qual é a opção? '))
+vistaDCH = compras * 0.90
+vistaCART = compras * 0.95
+Cart2x = compras / 2
+if opção == '1':
+    print(f'\nVocê fez R${compras} reais em compras, com o desconto de 10% à vista o valor cai para R${vistaDCH}')
+if opção == '2':
+    print(f'\nVocê fez R${compras} reais em compras, com o desconto de 5% à vista no cartão, o valor cai para R${vistaCART}')
+if opção == '3':
+    print(f'\nVocê fez R${compras} reais em compras, em 2x no cartão de crédito, o valor de cada parcela é de R${Cart2x}')
+if opção == '4':
+    parcelas = int(input('Em quantas vezes? '))
+    Cart3x = compras / parcelas
+    print(f'\nVocê fez R${compras} reais em compras, em {parcelas}x no cartão de crédito, o valor de cada parcela é de R${Cart3x}')
