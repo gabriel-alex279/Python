@@ -12,10 +12,13 @@ Exercícios e exemplos simples feitos em Python.
 - [⚖️Menor e Maior Peso](https://github.com/gabriel-alex279/Python/commit/4ea8cac11cb9e6a51b576e229d991bc5fae781be)
 - [👶👴Menor e Maior Idade](https://github.com/gabriel-alex279/Python/commit/9ca953519258de66c6536a43b007fe33602bb44a)
 - [🔄Palíndromo](https://github.com/gabriel-alex279/Python/commit/7818b519fb2222bf32ad086611a32d80d7e60ce3)
-- [Texto]()
-- [Texto]()
+- [✌️Par ou Ímpar☝️](https://github.com/gabriel-alex279/Python/commit/58e0b116b11985a36f984ff0a1640d61f7fef175)
+- [🧱Pedra, 📃Papel e ✂️Tesoura](https://github.com/gabriel-alex279/Python/commit/f61fb02a925bc58d5ffeacecdad2a90b06bbeef8)
+- [✔️Primo ou Não❌](https://github.com/gabriel-alex279/Python/commit/b530184e736592e78f4d7e2e22341021f2ca4f3b)
+- [🚨Radar Eletrônico](https://github.com/gabriel-alex279/Python/commit/5285a33c3b06b1492b2f8ea5d1f98fba6a144463)
+- [💰Salário Líquido](https://github.com/gabriel-alex279/Python/commit/89a7c132f0c7adca66a968da6a876efbea70ea36)
+- [🔢Tabuada](https://github.com/gabriel-alex279/Python/commit/337003c50e0e3661da999e8c0e04e5064136a3f0)
 
-  
 ## Atividades Acadêmicas 🎓
 
 Atividades práticas solicitadas pela minha Universidade.
