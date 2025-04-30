@@ -4,16 +4,16 @@ Exercícios e exemplos simples feitos em Python.
 
 ## Índice
 
-- [🎖️Alistamento Militar](link)
-- [Texto](link)
-- [Texto](link)
-- [Texto](link)
-- [Texto](link)
-- [Texto](link)
-- [Texto](link)
-- [Texto](link)
-- [Texto](link)
-- [Texto](link)
+- [🎖️Alistamento Militar](https://github.com/gabriel-alex279/Python/blob/main/Alistamento%20Militar)
+- [Texto]()
+- [Texto]()
+- [Texto]()
+- [Texto]()
+- [Texto]()
+- [Texto]()
+- [Texto]()
+- [Texto]()
+- [Texto]()
 
   
 ## Atividades Acadêmicas 🎓
