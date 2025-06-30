@@ -18,6 +18,7 @@ Exercícios e exemplos simples feitos em Python.
 - [🚨Radar Eletrônico](https://github.com/gabriel-alex279/Python/commit/5285a33c3b06b1492b2f8ea5d1f98fba6a144463)
 - [💰Salário Líquido](https://github.com/gabriel-alex279/Python/commit/89a7c132f0c7adca66a968da6a876efbea70ea36)
 - [🔢Tabuada](https://github.com/gabriel-alex279/Python/commit/337003c50e0e3661da999e8c0e04e5064136a3f0)
+- [🏋️‍♂️Cálculo de IMC](https://github.com/gabriel-alex279/Python/commit/ba9d813ed935acaa4c5d7043d270e922300b43cb)
 
 ## Atividades Acadêmicas 🎓
 
