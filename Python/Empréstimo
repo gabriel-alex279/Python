@@ -1,0 +1,23 @@
+# APROVANDO EMPRÉSTIMO
+
+print('-'*30)
+print(' ')
+valor_casa = float(input('Qual é o valor da casa? R$'))
+print(' ')
+salário = float(input('Qual é o seu salário? R$'))
+print(' ')
+anos = int(input('Em quantos anos você quer quitar o empréstimo? '))
+print(' ')
+tempo_quitação = anos * 12
+
+desconto_salário = salário * 0.30
+
+custo_parcela = valor_casa / tempo_quitação
+
+if custo_parcela >= desconto_salário:
+  print(f'Seu empréstimo foi negado! Para quitar uma casa no valor de R${valor_casa:.2f} em {anos} anos, sua prestação seria de R${custo_parcela:.2f} por mês.')
+  print(f'O banco só autoriza o empréstimo, se o custo da parcela for relativo a 30% do seu salário!')
+else:
+  print(f'Seu empréstimo foi autorizado! Para quitar uma casa no valor de R${valor_casa:.2f} em {anos} anos, a prestação será de R${custo_parcela:.2f} por mês.')
+print(' ')
+print('-'*30)

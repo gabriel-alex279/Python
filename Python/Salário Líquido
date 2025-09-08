@@ -1,0 +1,23 @@
+# Saiba seu salário líquido
+
+print('-'*30)
+print(' ')
+p = float(input('Qual é o salário do funcionário? R$'))
+print(' ')
+INSS = float(0.075)
+VT = float(0.06)
+
+s = p * INSS
+j = p * VT
+t = s + j
+
+salário = p - t
+print(f'O desconto do INSS é de: '+'\033[034m'+f'R${s:.2f}'+'\033[0;0m')
+print(' ')
+print(f'O desconto do VT é de: '+'\033[034m'+f'R${j:.2f}'+'\033[0;0m')
+print(' ')
+
+print(f'O salário liquido é de: '+'\033[031m'+f'R${salário}'+'\033[0;0m')
+
+print(' ')
+print('-'*30)
