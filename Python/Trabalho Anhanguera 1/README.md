@@ -1,8 +1,9 @@
-# Meu Trabalho Anhanguera 1
+# 👨‍💻Meu Trabalho Anhanguera 1
 
 ## OBJETIVOS:
 
 ✓ Compreender a importância da estruturas condicionais;
+
 ✓ Realizar a aplicação das estruturas em códigos.
 
 ## SOLUÇÃO DIGITAL:
@@ -43,15 +44,19 @@ exibir relatório final.
 
 
 Aqui eu acesso o Google Colab:
+<img width="1023" height="617" alt="1" src="https://github.com/user-attachments/assets/c8103113-c5a6-4c6c-a8dc-d2f1c2877933" />
 
 
 Crio um código simples de um sistema de gestão de notas de alunos, onde o mesmo permita que o usuário adicione notas, calcule a média das notas, determine a situação do aluno, e exiba um relatório final:
+<img width="1023" height="612" alt="2" src="https://github.com/user-attachments/assets/bfc3cb7c-4dbb-472d-80eb-ae9e19e45f41" />
 
 
 Uma vez iniciado o código, o mesmo mostra uma caixa de texto onde o usuário deve digitar o nome do aluno e suas demais notas da prova. No exemplo abaixo, o nome do aluno é Gabriel, e suas respectivas notas foram: 8, 9, 6, 5, 7:
+<img width="1023" height="613" alt="3" src="https://github.com/user-attachments/assets/3758bd62-4d43-4bf9-a119-cab9b71ec5b2" />
 
 
 Mais um exemplo mas desta vez com outras informações:
+<img width="1023" height="611" alt="4" src="https://github.com/user-attachments/assets/78844801-b3ca-4c4a-accb-29efb11476c8" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
