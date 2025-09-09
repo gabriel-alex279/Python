@@ -79,3 +79,7 @@ Mais um exemplo mas desta vez com outras informações:
 ## RESULTADOS DE APRENDIZAGEM:
 
 Essa atividade demonstra como utilizar entradas de dados, variáveis e operações matemáticas para calcular a média de notas de um aluno. O aluno aprende a usar a função input() para interagir com o usuário, armazenar dados em variáveis e realizar o cálculo da média aritmética. Além disso, a estrutura condicional if/else é aplicada para analisar a média final e exibir mensagens personalizadas, desenvolvendo assim a lógica de decisão e a construção de algoritmos simples em Python.
+
+## CÓDIGO COMPLETO:
+
+[Clique aqui!](https://github.com/gabriel-alex279/Python/blob/main/Python/Trabalho%20Anhanguera%201/C%C3%B3digo%20completo.txt)
