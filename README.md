@@ -24,5 +24,5 @@ Exercícios e exemplos simples feitos em Python.
 
 Atividades práticas solicitadas pela minha Faculdade.
 
-- [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/Python/blob/main/Python/Trabalho%20Anhanguera%20-%201)
+- [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/Python/tree/main/Python/Trabalho%20Anhanguera%201)
 
