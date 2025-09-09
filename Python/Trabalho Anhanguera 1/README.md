@@ -8,7 +8,7 @@
 
 ## SOLUÇÃO DIGITAL:
 
-• Google Colab
+• [Google Colab](https://colab.google/)
 
 O Google Colab, ou Colaboratory, é uma plataforma gratuita baseada na nuvem oferecida pelo Google. Ela fornece um ambiente de notebook interativo e colaborativo que permite a criação e execução de código diretamente no navegador, sem a necessidade de configurar ou instalar qualquer software no seu computador.
 
@@ -25,19 +25,19 @@ Você foi contratado para desenvolver um sistema simples de gestão de notas de 
 • As notas devem ser armazenadas em uma lista.
 
 
-Cálculo da Média:
+### Cálculo da Média:
 
 • O sistema deve calcular a média das notas inseridas.
 
 
-Determinação da Situação:
+### Determinação da Situação:
 
 • Se a média for maior ou igual a 7, o aluno está aprovado.
 
 • Se a média for menor que 7, o aluno está reprovado
 
 
-Relatório Final:
+### Relatório Final:
 
 • Exibir as notas inseridas, a média e a situação do aluno.
 
