@@ -18,27 +18,38 @@ O Google Colab, ou Colaboratory, é uma plataforma gratuita baseada na nuvem ofe
 Você foi contratado para desenvolver um sistema simples de gestão de notas de alunos. O sistema deve permitir que o usuário adicione notas, calcule a média das notas, determine a situação do aluno (aprovado ou reprovado), e exiba um relatório final. Utilize estruturas condicionais, de repetição e funções.
 
 Cadastro de Notas:
+
 • O sistema deve permitir que o usuário insira as notas dos alunos.
+
 • As notas devem ser armazenadas em uma lista.
 
 Cálculo da Média:
+
 • O sistema deve calcular a média das notas inseridas.
 
 Determinação da Situação:
+
 • Se a média for maior ou igual a 7, o aluno está aprovado.
+
 • Se a média for menor que 7, o aluno está reprovado
 
 Relatório Final:
+
 • Exibir as notas inseridas, a média e a situação do aluno.
 
 ## CHECKLIST:
 
 • Acessar o Google Colab e criar um novo notebook.
+
 • Copiar e colar o código inicial no notebook.
+
 • Implementar as funcionalidades de adicionar notas, calcular média, determinar situação e
 exibir relatório final.
+
 • Testar o código com diferentes entradas.
+
 • Comentar o código para explicar a lógica implementada.
+
 • Tire um print do código executado pelo menos uma vez.
 
 
