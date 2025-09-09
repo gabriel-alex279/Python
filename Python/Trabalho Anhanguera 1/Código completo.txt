@@ -1,0 +1,26 @@
+# Aqui é o nome do aluno que será avaliado (apenas um detalhe estético):
+
+aluno = input("Qual é o nome do aluno que será avaliado? ")
+
+print('Muito bem')
+
+# Aqui é onde o usuário coloca as notas do aluno:
+
+a = int(input(f"Diga a primeira nota do {aluno}: "))
+b = int(input("Agora diga a segunda nota: "))
+c = int(input("A terceira nota: "))
+d = int(input("A quarta nota: "))
+e = int(input(f"E por último, a quinta nota do {aluno}: "))
+
+# E aqui são as notas inseridas, a média e a situação do aluno:
+
+media = (a + b + c + d + e) / 5
+
+print(f'Muito bem, então vamos lá! As notas do aluno {aluno} foi de {a} na primeira prova, de {b} na segunda prova, de {c} na terceira, de {d} na quarta e na última prova ele tirou {e}.')
+print(f'A média de sua nota foi de {media}')
+
+if media < 7:
+ print(f"Contudo, eu sinto em dizer que o aluno {aluno} foi reprovado!")
+
+elif media >= 7:
+ print(f"O aluno {aluno} conseguiu obter a nota necessária e ele está aprovado!")
