@@ -18,7 +18,7 @@ O Google Colab, ou Colaboratory, é uma plataforma gratuita baseada na nuvem ofe
 Você foi contratado para desenvolver um sistema simples de gestão de notas de alunos. O sistema deve permitir que o usuário adicione notas, calcule a média das notas, determine a situação do aluno (aprovado ou reprovado), e exiba um relatório final. Utilize estruturas condicionais, de repetição e funções.
 
 
-Cadastro de Notas:
+### Cadastro de Notas:
 
 • O sistema deve permitir que o usuário insira as notas dos alunos.
 
