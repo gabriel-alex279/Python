@@ -94,6 +94,7 @@ Resultado:
 <img width="1023" height="609" alt="Exem22" src="https://github.com/user-attachments/assets/af7ae2d0-1616-445e-9335-2672d45087bf" />
 
 Resultado:
+
 <img width="505" height="91" alt="Exem2" src="https://github.com/user-attachments/assets/adf28635-b68a-47c2-80f6-fb7819a72b7d" />
 
 3° Teste :
@@ -157,4 +158,5 @@ Ao final da atividade, fui capaz de desenvolver uma aplicação web funcional ut
 ## CÓDIGOS COMPLETO:
 
 [app.py](https://github.com/gabriel-alex279/Python/blob/main/Python/Trabalho%20Anhanguera%202/C%C3%B3digos/app.py)
+
 [form.html](https://github.com/gabriel-alex279/Python/blob/main/Python/Trabalho%20Anhanguera%202/C%C3%B3digos/form.html)
