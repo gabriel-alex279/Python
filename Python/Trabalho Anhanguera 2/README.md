@@ -84,41 +84,46 @@ Agora, seguindo com o enunciado, vou preencher a tabela abaixo com os dados test
 
 Aqui estão os dados obtidos:
 
-1° Teste :
+1° Teste:
 <img width="1023" height="607" alt="Exem1" src="https://github.com/user-attachments/assets/a04b4cc1-e296-4171-9b5e-065d5610c412" />
 
 Resultado:
+
 <img width="508" height="85" alt="Exem11" src="https://github.com/user-attachments/assets/78f4718e-2e7e-41d8-8fc8-bd9f67931a37" />
 
-2° Teste :
+2° Teste:
 <img width="1023" height="609" alt="Exem22" src="https://github.com/user-attachments/assets/af7ae2d0-1616-445e-9335-2672d45087bf" />
 
 Resultado:
 
 <img width="505" height="91" alt="Exem2" src="https://github.com/user-attachments/assets/adf28635-b68a-47c2-80f6-fb7819a72b7d" />
 
-3° Teste :
+3° Teste:
 <img width="1023" height="606" alt="Exem3" src="https://github.com/user-attachments/assets/3fc3d69b-3bb9-49ca-80e8-13ad266e1edc" />
 
 Resultado:
+
 <img width="495" height="94" alt="Exem33" src="https://github.com/user-attachments/assets/b9c88220-4305-43a7-a075-6984178f59ed" />
 
-4° Teste :
+4° Teste:
 <img width="1023" height="607" alt="Exem4" src="https://github.com/user-attachments/assets/06dc2256-581b-46a9-89f9-1f1f36732084" />
 
 Resultado:
+
 <img width="641" height="103" alt="Exem44" src="https://github.com/user-attachments/assets/9b276609-3922-45fc-80a0-4f1a7678b166" />
 
-5° Teste :
+5° Teste:
 <img width="1023" height="608" alt="Exem5" src="https://github.com/user-attachments/assets/e46b630e-f079-4fcd-940b-77abb5090801" />
 
 Resultado:
+
 <img width="929" height="105" alt="Exem55" src="https://github.com/user-attachments/assets/b952d6ad-c0b7-4785-acd3-f0762286fde1" />
 
 6° e último Teste:
 <img width="1023" height="607" alt="Exem6" src="https://github.com/user-attachments/assets/fba27de2-36db-4c9f-801b-5569cac5f65d" />
 
 Resultado:
+
 <img width="907" height="101" alt="Exem66" src="https://github.com/user-attachments/assets/0eae2dfb-b9ea-493a-bcbf-31e3020f7ba5" />
 
 ### Tabela completa com os resultados obtidos:
