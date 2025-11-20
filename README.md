@@ -19,6 +19,7 @@ Exercícios e exemplos simples feitos em Python.
 - [💰Salário Líquido](https://github.com/gabriel-alex279/Python/blob/main/Python/Sal%C3%A1rio%20L%C3%ADquido)
 - [🔢Tabuada](https://github.com/gabriel-alex279/Python/blob/main/Python/Tabuada)
 - [🏋️‍♂️Cálculo de IMC](https://github.com/gabriel-alex279/Python/blob/main/Python/C%C3%A1lculo%20de%20IMC)
+- [🌡️Plataforma de Saúde🚑](https://github.com/gabriel-alex279/Python/blob/main/Python/Plataforma%20de%20Sa%C3%BAde.py)
 
 ## Atividades Acadêmicas 🎓
 
